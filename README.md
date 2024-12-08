@@ -9,14 +9,14 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 🛠️ Skills & Interests  
 Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+### 🛠️ Languages and Tools:
+
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>  
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>  
+<img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>  
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>  
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>  
+
 
 Frameworks/Tools: MySQL, MongoDB, Figma  
 Interests: Web Development, Projects, Hackathons    
