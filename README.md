@@ -1,16 +1,23 @@
-## Hi there 👋
+Here’s a template for a professional and eye-catching GitHub Profile README file:
 
-<!--
-**Deepash-s/Deepash-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Hi there, I'm Deepash 👋  
+👨‍💻 Computer Science Student | Software Developer | Tech Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm passionate about technology, programming, and building innovative solutions. Here's what I do:  
+
+🛠️ Skills & Interests  
+Languages: Python, JavaScript, SQL, HTML/CSS  
+Frameworks/Tools: MySQL, MongoDB, Figma  
+Interests: Web Development, Projects, Hackathons    
+
+📈 GitHub Stats  
+![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+🔗 Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/deepashsrinivasan/)  
+- [Portfolio](https://your-portfolio.com)  
+- [Email](mailto:deepashs18@gmail.com)  
+
