@@ -13,8 +13,8 @@ Frameworks/Tools: MySQL, MongoDB, Figma
 Interests: Web Development, Projects, Hackathons    
 
 📈 GitHub Stats  
-![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-Deepash-s&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Deepash-s&layout=compact&theme=radical)  
+![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepash-s&layout=compact&theme=radical)  
 
 🔗 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/deepashsrinivasan/)  
