@@ -8,7 +8,11 @@ Hi there, I'm Deepash 👋
 Welcome to my GitHub profile! I'm passionate about technology, programming, and building innovative solutions. Here's what I do:  
 
 🛠️ Skills & Interests  
-Languages: Python, JavaScript, SQL, HTML/CSS https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black 
+Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
 Frameworks/Tools: MySQL, MongoDB, Figma  
 Interests: Web Development, Projects, Hackathons    
 
