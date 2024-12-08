@@ -7,11 +7,7 @@ Hi there, I'm Deepash 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, programming, and building innovative solutions. Here's what I do:  
 
-🛠️ Skills & Interests  
-
 🛠️ Languages and Tools:
-
-### 🛠️ Languages and Tools:
 
 <div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
