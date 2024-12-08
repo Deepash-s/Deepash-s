@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 🛠️ Languages and Tools:
 ### 🛠️ Languages and Tools:
 
+### 🛠️ Languages and Tools:
+
 <div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
@@ -19,7 +21,9 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt=
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+</div>
+
 
 Interests: Web Development, Projects, Hackathons    
 
