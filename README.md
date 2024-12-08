@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 🛠️ Skills & Interests  
 
 🛠️ Languages and Tools:
-### 🛠️ Languages and Tools:
 
 ### 🛠️ Languages and Tools:
 
