@@ -1,4 +1,4 @@
-Here’s a template for a professional and eye-catching GitHub Profile README file:
+
 
 ---
 
@@ -18,6 +18,6 @@ Interests: Web Development, Projects, Hackathons
 
 🔗 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/deepashsrinivasan/)  
-- [Portfolio](https://your-portfolio.com)  
+- [GeeksForGeeks](https://www.geeksforgeeks.org/user/deepas194c/)  
 - [Email](mailto:deepashs18@gmail.com)  
 
