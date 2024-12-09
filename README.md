@@ -29,7 +29,7 @@ Interests: Web Development, Projects, Hackathons
 ![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=radical)                  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepash-s&layout=compact&theme=radical)  
 
 🔗 Let's Connect  
-- [<img src="C:\Users\deepash s\Downloads\github logos\linkedin-svgrepo-com.svg"/>](https://www.linkedin.com/in/deepashsrinivasan/)  
+- <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a>
 - [GeeksForGeeks](https://www.geeksforgeeks.org/user/deepas194c/)  
 - [Email](mailto:deepashs18@gmail.com)  
 
