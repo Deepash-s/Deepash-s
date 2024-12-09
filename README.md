@@ -30,7 +30,11 @@ Interests: Web Development, Projects, Hackathons
 
 🔗 Let's Connect  
 <a href="https://www.linkedin.com/in/deepashsrinivasan/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/> 
-</a> <a href="https://www.geeksforgeeks.org/user/deepas194c/" target="_blank"> <img src="https://img.icons8.com/color/48/26e07f/geeksforgeeks.png" alt="GeeksforGeeks" width="40" height="40"/> 
+</a> <a href="https://www.geeksforgeeks.org/user/deepas194c/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
+<a href="https://www.hackerrank.com/profile/deepashs18" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" width="40" height="40"/>
+</a>
+
 </a> <a href="mailto:deepashs18@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" height="40"/> </a>
 
 
