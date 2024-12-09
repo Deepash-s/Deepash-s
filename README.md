@@ -21,26 +21,26 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
 </div>
 
-
-
 ### Interests: 
 * Web Development
 * Projects
 * Hackathons    
 
+---
+
 ### 📈 GitHub Stats  
-![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepash-s&layout=compact&theme=radical) 
+![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=dark)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepash-s&layout=compact&theme=dark) 
 
 ### Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Deepash-s&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### Total Contributions
-![Your Contributions](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=radical)
+![Your Contributions](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=dark)
 
 ### Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepash-s&theme=react-dark)
 
-
+---
 
 ### 🔗 Let's Connect  
 
@@ -52,5 +52,5 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 <a href="mailto:deepashs18@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" height="40"/>
 </a>
 
-
+---
 
