@@ -9,7 +9,7 @@ Hi there, I'm Deepash 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, programming, and building innovative solutions. Here's what I do:  
 
-🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
 
 <div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>&nbsp;
@@ -23,10 +23,19 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 
 
-Interests: Web Development, Projects, Hackathons    
+## Interests: 
+* Web Development
+* Projects
+* Hackathons    
 
-📈 GitHub Stats  
-![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepash-s&layout=compact&theme=radical)  
+## 📈 GitHub Stats  
+![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepash-s&layout=compact&theme=radical) 
+## Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=Deepash-s&color=brightgreen)
+
+## Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Deepash-s&theme=react-dark)
+
 
 🔗 Let's Connect  
 
