@@ -29,7 +29,7 @@ Interests: Web Development, Projects, Hackathons
 ![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepash-s&layout=compact&theme=radical)  
 
 🔗 Let's Connect  
-<a href="https://www.linkedin.com/in/deepashsrinivasan/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>&nbsp;
+* <a href="https://www.linkedin.com/in/deepashsrinivasan/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="25" height="25"/>&nbsp;
 </a> <a href="https://www.geeksforgeeks.org/user/deepas194c/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>&nbsp;
 <a href="https://www.hackerrank.com/profile/deepashs18" target="_blank">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" width="40" height="40"/>
