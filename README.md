@@ -34,9 +34,6 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 ### Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Deepash-s&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-### Total Contributions
-![Your Contributions](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=dark)
-
 ### Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepash-s&theme=react-dark)
 
