@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ### 🔗 Let's Connect  
 
-<a href="https://www.linkedin.com/in/deepashsrinivasan/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/deepashs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/user/deepas194c/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
