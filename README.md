@@ -9,7 +9,7 @@ Hi there, I'm Deepash 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, programming, and building innovative solutions. Here's what I do:  
 
-### 🛠️ Languages and Tools:
+### 🛠️ **Languages and Tools:**
 
 <div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>&nbsp;
@@ -21,25 +21,25 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
 </div>
 
-### Interests: 
+### **Interests:** 
 * Web Development
 * Projects
 * Hackathons    
 
 ---
 
-### 📈 GitHub Stats  
+### 📈 **GitHub Stats**  
 ![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=dark)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepash-s&layout=compact&theme=dark) 
 
-### Streak Stats
+### **Streak Stats**
 [![GitHub Streak](https://streak-stats.demolab.com?user=Deepash-s&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-### Contribution Graph
+### **Contribution Graph**
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepash-s&theme=react-dark)
 
 ---
 
-### 🔗 Let's Connect  
+### 🔗 **Let's Connect**  
 
 <a href="https://www.linkedin.com/in/deepashs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
