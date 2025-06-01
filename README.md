@@ -5,6 +5,8 @@
 Hi there, I'm Deepash 👋  
 👨‍💻 Computer Science Student | Software Developer | Tech Enthusiast <br><br>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV0MXU4ZzhrbGk4b3h4NXB1a2E3cGE4MG94NzZxZm40d2EwZmUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
+![Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU5bTYyN3hqdDcyOGRwbnYyNjFxZXlxN2c0a2t3ZGd6aW02enJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
 
 
 Welcome to my GitHub profile! I'm passionate about technology, programming, and building innovative solutions. Here's what I do:  
