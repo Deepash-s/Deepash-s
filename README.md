@@ -39,6 +39,9 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 ### **Contribution Graph**
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepash-s&theme=react-dark)
 
+### **GeeksForGeeks Stats**
+[![Deepash's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=deepas194c)](https://www.geeksforgeeks.org/user/deepas194c/)
+
 ---
 
 ### 🔗 **Let's Connect**  
