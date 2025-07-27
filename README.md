@@ -42,7 +42,8 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 ### **GeeksForGeeks Stats**
 [![Deepash's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=deepas194c)](https://www.geeksforgeeks.org/user/deepas194c/)
 
-
+## HackerRank
+[![HackerRank Stats](https://img.shields.io/badge/HackerRank-1500%2B_Points-brightgreen?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/deepashs18)
 
 ---
 
