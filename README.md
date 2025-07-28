@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 [![HackerRank Stats](https://img.shields.io/badge/HackerRank-1500%2B_Points-brightgreen?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/deepashs18)
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Deepash-s&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Deepash-s&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 🔗 **Let's Connect**  
