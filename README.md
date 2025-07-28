@@ -2,7 +2,7 @@
 
 ---
 
-Hi there, I'm Deepash 👋
+Hi there, I'm Deepash 👋<br>
 👨‍💻 Computer Science Student | Software Developer | Tech Enthusiast <br><br>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV0MXU4ZzhrbGk4b3h4NXB1a2E3cGE4MG94NzZxZm40d2EwZmUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/><br>
 
