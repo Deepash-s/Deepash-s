@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 ---
 
 ### 📈 **GitHub Stats**  
-![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=dark)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepash-s&layout=compact&theme=dark) 
+![Deepash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepash-s&show_icons=true&theme=dark) &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepash-s&layout=compact&theme=dark) 
 
 ### **Streak Stats**
 [![GitHub Streak](https://streak-stats.demolab.com?user=Deepash-s&theme=dark&hide_border=true)](https://git.io/streak-stats)
