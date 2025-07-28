@@ -45,6 +45,10 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Deepash-s&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Snake Animation](https://raw.githubusercontent.com/Deepash-s/Deepash-s/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🔗 **Let's Connect**  
