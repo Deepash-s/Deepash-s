@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
 </div>
 
-![Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU5bTYyN3hqdDcyOGRwbnYyNjFxZXlxN2c0a2t3ZGd6aW02enJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Deepash-s&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### **Interests:** 
