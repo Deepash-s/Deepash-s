@@ -15,6 +15,10 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/>&nbsp;
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
