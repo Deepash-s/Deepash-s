@@ -1,6 +1,6 @@
 # Hi there, I'm Deepash 👋
 
-**Computer Science Student | Full-Stack Developer | Tech Enthusiast**
+**Computer Science Student | Full-Stack Developer(MERN) | Tech Enthusiast**
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV0MXU4ZzhrbGk4b3h4NXB1a2E3cGE4MG94NzZxZm40d2EwZmUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/><br>
 
@@ -8,7 +8,7 @@ I am a Computer Science student with an interest in full-stack web development a
 
 ## About Me
 
-* Building and exploring full-stack web applications
+* Building and exploring full-stack web applications using MERN
 * Interested in frontend and backend development
 * Working with JavaScript, Python, React, Node.js, and databases
 * Enjoy participating in hackathons and developing real-world projects
