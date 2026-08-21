@@ -52,9 +52,13 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ### 🏅 **Coding Achievements**
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-1500%2B%20Points-brightgreen?style=for-the-badge\&logo=HackerRank)](https://www.hackerrank.com/deepashs18)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1500%2B%20Points-brightgreen?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/deepashs18)
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](https://www.geeksforgeeks.org/user/deepas194c/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-142%20Coding%20Score-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/deepas194c/)
+
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-69-blue?style=for-the-badge)](https://www.geeksforgeeks.org/user/deepas194c/)
+
+[![Institute Rank](https://img.shields.io/badge/Institute%20Rank-17-purple?style=for-the-badge)](https://www.geeksforgeeks.org/user/deepas194c/)
 
 ---
 
