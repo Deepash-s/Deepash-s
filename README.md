@@ -24,12 +24,12 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ### 💻 **Technical Skills**
 
-* **Languages:** Python, JavaScript, HTML, CSS
-* **Frontend:** React, Responsive Web Design, Vite
-* **Backend:** Node.js, Express.js, Flask, Django
-* **Databases:** MySQL, MongoDB, SQLite
-* **Tools & Technologies:** Git, GitHub, REST APIs, Postman, SQLAlchemy, Figma
-* **Currently Exploring:** Cloud & DevOps Fundamentals
+* **Languages:** Python, JavaScript
+* **Frontend:** React, HTML, CSS
+* **Backend:** Node.js, Express.js
+* **Databases:** MySQL, MongoDB
+* **Tools & Technologies:** Git, GitHub, Figma
+* **Currently Exploring:** Cloud & AI/ML
 
 ### 🚀 **Interests**
 
@@ -50,9 +50,9 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ---
 
-### 🏆 **Coding Profiles**
+### 🏅 **Coding Achievements**
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge\&logo=HackerRank)](https://www.hackerrank.com/deepashs18)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1500%2B%20Points-brightgreen?style=for-the-badge\&logo=HackerRank)](https://www.hackerrank.com/deepashs18)
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](https://www.geeksforgeeks.org/user/deepas194c/)
 
