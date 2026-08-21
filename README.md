@@ -46,7 +46,7 @@ I am a Computer Science student with an interest in full-stack web development a
 * Strengthening full-stack development skills
 * Building practical and scalable web applications
 * Improving problem-solving and programming skills
-* Exploring cloud technologies and DevOps fundamentals
+* Exploring cloud technologies and AI/ML fundamentals
 * Contributing to projects and participating in hackathons
 
 ## 📌 Areas of Interest
@@ -55,7 +55,7 @@ I am a Computer Science student with an interest in full-stack web development a
 * Backend Development
 * Software Development
 * Cloud Computing
-* DevOps
+* AI/ML
 * Problem Solving
 
 ---
