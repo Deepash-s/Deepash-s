@@ -22,7 +22,7 @@ I am a Computer Science student with an interest in full-stack web development a
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="React"/>&nbsp;
-  <img width="40" height="40" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"/>&nbsp;
+  <img width="40" height="40" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"/>&nbsp;<br>
   <img width="40" height="40" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>&nbsp;
   <img width="40" height="40" src="https://img.icons8.com/color/48/git.png" alt="Git"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>&nbsp;
